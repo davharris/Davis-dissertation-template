@@ -14,7 +14,7 @@ header-includes:
 
 By
 
-{{YOUR NAME IN ALL CAPS}}
+{{YOUR FULL NAME IN ALL CAPS}}
 
 {{PREVIOUS DEGREE}} ({{school that granted your previous degree}}) {{YEAR}}
 
@@ -104,7 +104,7 @@ Committee in charge
 
 ## {{Another section}}
 
-{{More stuff}}
+{{More stuff, including a citation: @harris_occupancy_2011}}
 
 
 \newpage
@@ -143,6 +143,8 @@ Committee in charge
 \setstretch{2}
 
 {{Authors' names}}
+
+## Introduction
 
 {{More text}}
 
