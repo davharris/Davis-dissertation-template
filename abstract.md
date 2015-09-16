@@ -10,7 +10,6 @@ header-includes:
 
 \thispagestyle{empty}
 \noindent\begin{minipage}{\textwidth}
-\singlespacing
 \raggedleft
 {{Your Name}}
 
@@ -22,8 +21,10 @@ header-includes:
 \vspace*{\baselineskip}
 
 \centerline{\textbf{
-{{Title In Title Case}
+{{Title In Title Case}}
 }}
+
+\vspace*{\baselineskip}
 
 \centerline{\textbf{\underline{Abstract}}}
 
