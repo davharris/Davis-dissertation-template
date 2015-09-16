@@ -22,7 +22,7 @@ header-includes:
 \vspace*{\baselineskip}
 
 \centerline{\textbf{
-{{Title In Title Case}
+{{Title In Title Case}}
 }}
 
 \centerline{\textbf{\underline{Abstract}}}
