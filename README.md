@@ -8,4 +8,4 @@ On my machine, you can compile the template to a complete PDF file with the foll
 
 Feel free to use the template for any purpose, but I cannot provide any support for it.  Also, although [my dissertation](https://github.com/davharris/dissertation) did pass inspection using this template, I cannot guarantee that it will meet all of the requirements for you (especially because Grad Studies could change the requirements in the future)
 
-All of the fields in `dissertation.md` that you need to fill in should be marked with {{double braces}}. You can see what the template looks like using `dissrtation.pdf`.
+All of the fields in `dissertation.md` that you need to fill in should be marked with {{double braces}}. You can see what the template looks like using `dissertation.pdf`.
